@@ -37,7 +37,7 @@ jobs:
 
       - name: Release
         if: github.ref == 'refs/heads/master'
-        uses: cycjimmy/semantic-release-action@v4
+        uses: norgate-av/semantic-release-action@fix/conventional-commits
         with:
           extra_plugins: |
             @semantic-release/changelog
