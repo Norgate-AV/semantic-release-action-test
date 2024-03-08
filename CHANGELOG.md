@@ -5,6 +5,14 @@
 
 ### 🌟 Features
 
+* initial commit ([fac39c5](https://github.com/Norgate-AV/semantic-release-action-test/commit/fac39c5aab897f06ecf9d64704c4b0fd4f04fa0f))
+* use forked action ([f22e65f](https://github.com/Norgate-AV/semantic-release-action-test/commit/f22e65f0a97ff49e140ee5c4e46982929da81fb1))
+
+## 1.0.0 (2024-03-08)
+
+
+### 🌟 Features
+
 * add ci option to workflow ([1c739d4](https://github.com/Norgate-AV/semantic-release-action-test/commit/1c739d4dedc2622e9ecd704dbc7785707a159c17))
 * add cz-conventional-changelog to plugins ([7d6caca](https://github.com/Norgate-AV/semantic-release-action-test/commit/7d6cacadafc4cd4f749bc320ec84d10195b279e5))
 * add debug env var ([9156b5f](https://github.com/Norgate-AV/semantic-release-action-test/commit/9156b5f706cc0d5025589344ee17459000b8e9a6))
